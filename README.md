@@ -1,4 +1,4 @@
-# vue-player
+# vue-axis
 
 > A Vue.js project
 
